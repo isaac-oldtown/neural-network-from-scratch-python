@@ -1,0 +1,5 @@
+repos:
+  - repo: https://github.com/isaac-oldtown/notebook-splitter
+    rev: b9c04bcabba02b372330c7b6c3b27af722b3354c
+    hooks:
+      - id: notebook-export
