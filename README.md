@@ -12,18 +12,6 @@ This project demonstrates how core deep learning components work internally, inc
 
 The model is trained on the **scikit-learn Digits dataset** to classify handwritten digits.
 
----
-
-### File Overview
-
-| File | Description |
-|-----|-------------|
-| `functions.py` | Implements activation functions and loss functions |
-| `neural_network.py` | Full neural network implementation (forward pass, backpropagation, training loop, visualization utilities) |
-| `main.py` | Example script that trains the network on the sklearn digits dataset |
-
----
-
 # Features
 
 ### Implemented from Scratch
