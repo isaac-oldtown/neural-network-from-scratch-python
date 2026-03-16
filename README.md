@@ -67,26 +67,6 @@ Install dependencies:
 pip install numpy matplotlib scikit-learn
 ```
 
----
-
-# Running the Project
-
-Run the training script:
-
-```bash
-cd src
-python main.py
-```
-
-This will:
-
-1. Load the digits dataset
-2. Train the neural network
-3. Plot the **training error curve**
-4. Display a **confusion matrix**
-
----
-
 # Learning Goals
 
 This project was built to explore:
