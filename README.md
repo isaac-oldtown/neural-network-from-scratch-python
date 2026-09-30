@@ -54,6 +54,10 @@ Install dependencies:
 ```bash
 pip install numpy matplotlib scikit-learn
 ```
+or using `uv` (as recommended)
+``` bash
+uv sync
+```
 
 # Learning Goals
 
